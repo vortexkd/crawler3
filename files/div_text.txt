@@ -1,0 +1,12 @@
+<div class="article" id="article_01">
+	<div>
+		<div class="article-time"> <p><!-- $time --> </p> </div>
+		<h1 class="article-header"> <!-- $title -->  </h1>
+	</div>
+	<div class="article-body">
+		<div class="right"> <!-- $imgTag --> <!--<img src="https://news.mynavi.jp/article/20170531-a019/images/001.jpg" />--> </div>
+		<!-- $articleBody --> <p>
+		</p>
+		
+	</div>
+</div>
